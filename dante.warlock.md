@@ -58,13 +58,13 @@ _Proficiency Bonus = +2_
   - Persuasion: +5
 
 ## Combat
-- Armor Class:
-- Initiative:
-- Speed:
-- Hit Point Maximum:
+- Armor Class: [10 _(Leather Armor)_](https://docs.google.com/spreadsheets/d/1LoHJigRXaWTcSvVPATcWuMvyGu_FTEbPW-Rd7zwUUrk/edit#gid=0)
+- Initiative: -1
+- Speed: 30
+- Hit Point Maximum: 27
+- Damage Taken: 
 - Resistances:
   - Fire Resistance
-  - 
 
 ### Attack Options:
 Physical:
@@ -122,7 +122,7 @@ _Become the Flame, and attain life eternal!_
 - **Damage:** 3d6 fire (+1d6/slot level)
 
 [Arms of Hadar (->Efreeti) _(Warlock)_](http://dnd5e.wikidot.com/spell:arms-of-hadar) - 
-_Can I change this to fire-type damage?_
+_Come, dance with me in hell!_
 - **Casting Time:** 1 action
 - **Range:** Self (10-ft radius)
 - **Components:** V, S
@@ -131,7 +131,7 @@ _Can I change this to fire-type damage?_
 - **Damage:** 2d6 fire (+1d6/slot level)
 
 [Witch Bolt](http://dnd5e.wikidot.com/spell:witch-bolt) - 
-_Can I change this to fire-type damage?_
+_Embrace the agony._
 - **Casting Time:** 1 action
 - **Range:** 30 ft
 - **Components:** V, S, M
@@ -150,7 +150,7 @@ _You dare fight the Flame Eternal!?_
 - **Effect Condition:** DEX Save
 - **Damage:** 3d10 fire
 
-[Misty Step _(warlock)_](http://dnd5e.wikidot.com/spell:misty-step)
+[Smoky Step _(warlock)_](http://dnd5e.wikidot.com/spell:misty-step)
 - **Casting Time:** 1 bonus action
 - **Range:** self (30 feet)
 - **Components:** V
@@ -256,4 +256,3 @@ _You might also have ties to a specific temple dedicated to your chosen deity or
 - [Haunted One](http://dnd5e.wikidot.com/background:haunted-one)
   - Heart of Darkness [_(Haunted One)_](http://dnd5e.wikidot.com/background:haunted-one) -
   _Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone._
-
