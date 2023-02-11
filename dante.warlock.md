@@ -9,9 +9,7 @@ Dante
 - Alignment: Chaotic Evil
 - Languages: Common, Infernal, & Primordial
 
-
 <img src="dante.jpg" alt="Dante" style="height: 260px; width:200;"/>
-
 
 ### Fire Genasi
 _As a fire genasi, you have inherited the volatile mood and keen mind of the efreet. You tend toward impatience and making snap judgments. Rather than hide your distinctive appearance, you exult in it._
@@ -49,7 +47,7 @@ _Proficiency Bonus = +2_
   - Perception: +1
     - Darkvision _(Racial)_ 
       - _Dante can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.  His ties to the Elemental Plane of Fire make his darkvision unusual: everything he sees in darkness is in a shade of red._
-  - Survival:
+  - Survival: +1
 - **Charisma:** 20
   - Saving Throws: +5 _+P_
   - Deception: +5 _+P_
@@ -256,3 +254,15 @@ _You might also have ties to a specific temple dedicated to your chosen deity or
 - [Haunted One](http://dnd5e.wikidot.com/background:haunted-one)
   - Heart of Darkness [_(Haunted One)_](http://dnd5e.wikidot.com/background:haunted-one) -
   _Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone._
+
+
+Inventory
+=========
+**Gold:** 20
+
+- A light crossbow and 20 bolts
+- An arcane focus
+- A dungeoneer's pack
+- Leather armor, 
+- Any simple weapon, 
+- Two daggers
