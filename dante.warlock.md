@@ -166,16 +166,16 @@ _Glory in the agony of life!_
 ## Feats:
 
 ## Racial Feats:
-### Tiefling - Bloodline of Asmodeus
+### [Tiefling - Bloodline of Asmodeus](http://dnd5e.wikidot.com/lineage:tiefling)
 - **Ability Score Increase:** +2 Charisma
 - **Infernal Legacy**
   - [Thaumaturgy](http://dnd5e.wikidot.com/spell:thaumaturgy)
   - [Hellish Rebuke](http://dnd5e.wikidot.com/spell:hellish-rebuke)
   - 5th level: _See Genasi_
 
-### Fire Genasi
+### [Fire Genasi](http://dnd5e.wikidot.com/lineage:genasi-fire)
 - **Ability Score Increase:** +1 Constitution
-- **Infernal Legacy**
+- **Reach to the Blaze**
   - [Produce Flame](http://dnd5e.wikidot.com/spell:produce-flame)
   - [Burning Hands](http://dnd5e.wikidot.com/spell:burning-hands)
   - 5th level: [Flame Blade](http://dnd5e.wikidot.com/spell:flame-blade)
@@ -258,8 +258,11 @@ _You might also have ties to a specific temple dedicated to your chosen deity or
 
 Inventory
 =========
-**Gold:** 20
+**Gold:** 310
 
+- 3 embers of the Flame Eternal:
+  - 2x Create Bonfire
+  - 1x Thaumaturgy
 - A light crossbow and 20 bolts
 - An arcane focus
 - A dungeoneer's pack
