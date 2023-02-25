@@ -60,7 +60,7 @@ _Proficiency Bonus = +2_
 - Initiative: -1
 - Speed: 30
 - Hit Point Maximum: 27
-- Damage Taken: 
+- Damage Taken: 9
 - Resistances:
   - Fire Resistance
 
@@ -77,7 +77,7 @@ _Oh Brother! Where art thou?!_
 - **Range:** 30 ft
 - **Components:** V
 
-[Produce Flame _(Racial)_](http://dnd5e.wikidot.com/spell:produce-flame) -
+[Produce Flame](http://dnd5e.wikidot.com/spell:produce-flame) -
 _Speak to me, oh Flame Eternal._
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -109,6 +109,7 @@ _From the Ashes, we Rise..._
 - **Duration:** 1 hr
 
 
+
 ### Level 1:
 [Burning Hands _(Racial)_](http://dnd5e.wikidot.com/spell:burning-hands) - 
 _Become the Flame, and attain life eternal!_
@@ -136,6 +137,7 @@ _Embrace the agony._
 - **Duration:** Concentration, up to 1 minute
 - **Effect Condition:** Ranged Spell Attack
 - **Damage:** 1d12 fire (+1d12/slot level)
+
 
 
 ### Level 2:
@@ -258,8 +260,11 @@ _You might also have ties to a specific temple dedicated to your chosen deity or
 
 Inventory
 =========
-**Gold:** 310
+**Gold:** 320
 
+- 30 firecrackers
+- 5 roll-timed bombs
+- 10 oil flasks
 - 3 embers of the Flame Eternal:
   - 2x Create Bonfire
   - 1x Thaumaturgy
