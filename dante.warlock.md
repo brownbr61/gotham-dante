@@ -24,7 +24,7 @@ _To be greeted with stares and whispers, to suffer violence and insult on the st
 _Proficiency Bonus = +2_
 - **Strength:** 8
   - Saving Throws: -1
-  - Athletics:
+  - Athletics: -1
 - **Dexterity:** 8
   - Saving Throws: -1
   - Acrobatics: -1
@@ -48,7 +48,7 @@ _Proficiency Bonus = +2_
     - Darkvision _(Racial)_ 
       - _Dante can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.  His ties to the Elemental Plane of Fire make his darkvision unusual: everything he sees in darkness is in a shade of red._
   - Survival: +1
-- **Charisma:** 20
+- **Charisma:** 18
   - Saving Throws: +5 _+P_
   - Deception: +5 _+P_
   - Intimidation: +5 _+P_
@@ -56,11 +56,11 @@ _Proficiency Bonus = +2_
   - Persuasion: +5
 
 ## Combat
-- Armor Class: [10 _(Leather Armor)_](https://docs.google.com/spreadsheets/d/1LoHJigRXaWTcSvVPATcWuMvyGu_FTEbPW-Rd7zwUUrk/edit#gid=0)
+- Armor Class (AC): [10 _(Leather Armor)_](https://docs.google.com/spreadsheets/d/1LoHJigRXaWTcSvVPATcWuMvyGu_FTEbPW-Rd7zwUUrk/edit#gid=0)
 - Initiative: -1
 - Speed: 30
 - Hit Point Maximum: 27
-- Damage Taken: 9
+- Damage Taken: 8
 - Resistances:
   - Fire Resistance
 
