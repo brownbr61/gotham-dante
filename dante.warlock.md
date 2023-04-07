@@ -3,7 +3,7 @@ Dante
 
 ## Introduction
 - Class Level:
-  - Warlock 3
+  - Warlock 5
 - Background
 - Race: Half Tiefling, Half Fire Genasi
 - Alignment: Chaotic Evil
@@ -150,6 +150,18 @@ _You dare fight the Flame Eternal!?_
 - **Effect Condition:** DEX Save
 - **Damage:** 3d10 fire
 
+[Darkness _(Racial)_](http://dnd5e.wikidot.com/spell:darkness)
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Concentration, up to 10 minutes
+
+[Flame Blade _(Racial)_](http://dnd5e.wikidot.com/spell:flame-blade)
+- Casting Time: 1 bonus action 
+- Range: Self
+- Components: V, S
+- Duration: Concentration, up to 10 minutes
+
 [Smoky Step _(warlock)_](http://dnd5e.wikidot.com/spell:misty-step)
 - **Casting Time:** 1 bonus action
 - **Range:** self (30 feet)
@@ -182,7 +194,7 @@ _Glory in the agony of life!_
   - [Burning Hands](http://dnd5e.wikidot.com/spell:burning-hands)
   - 5th level: [Flame Blade](http://dnd5e.wikidot.com/spell:flame-blade)
 
-## Class Bonuses - [Warlock](http://dnd5e.wikidot.com/warlock) 3
+## Class Bonuses - [Warlock](http://dnd5e.wikidot.com/warlock) 5
 [_see the coffeelock for future inspiration_](https://www.dandwiki.com/wiki/CoffeeLock_(5e_Optimized_Character_Build))
 
 ### [Genie (Efreeti)](http://dnd5e.wikidot.com/warlock:the-genie)
@@ -263,7 +275,7 @@ Inventory
 **Gold:** 320
 
 - 30 firecrackers
-- 5 roll-timed bombs
+- 5 roll-timed bombs (1d4)
 - 10 oil flasks
 - 3 embers of the Flame Eternal:
   - 2x Create Bonfire
