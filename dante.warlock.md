@@ -168,18 +168,6 @@ Physical:
 - **Effect Condition:** DEX Save
 - **Damage:** 3d10 fire
 
-[Darkness _(Racial)_](http://dnd5e.wikidot.com/spell:darkness)
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V
-- **Duration:** Concentration, up to 10 minutes
-
-[Flame Blade _(Racial)_](http://dnd5e.wikidot.com/spell:flame-blade)
-- Casting Time: 1 bonus action 
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
-
 #### [Smoky Step _(warlock)_](http://dnd5e.wikidot.com/spell:misty-step)
 
 - **Casting Time:** 1 bonus action
